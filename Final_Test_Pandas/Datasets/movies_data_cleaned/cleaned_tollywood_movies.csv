@@ -1,0 +1,11 @@
+MovieID,Title,Director,Genre,ReleaseYear,Budget (Crores),BoxOffice (Crores),Rating,Duration (minutes),LeadActor,LeadActress,Language,ProductionCompany
+MOV004,Baahubali 2: The Conclusion,S. S. Rajamouli,Epic Fantasy Action,2018.5,250,1810,8.2,171.0,Prabhas,Anushka Shetty,Telugu,Arka Media Works
+MOV021,Bahubali: The Beginning,S. S. Rajamouli,Epic Fantasy Action,2015.0,180,650,8.1,159.0,Prabhas,Tamannaah,Telugu,Unknown
+MOV023,Sye Raa Narasimha Reddy,Surender Reddy,Historical Action,2019.0,200,265,7.1,167.0,Chiranjeevi,Nayanthara,Telugu,Konidela Production Company
+MOV025,Jersey,Gowtam Tinnanuri,Sports Drama,2019.0,20,45,7.8,167.0,Nani,Shraddha Srinath,Telugu,Sithara Entertainments
+MOV027,Geetha Govindam,Parasuram,Romantic Comedy,2018.0,10,130,7.8,148.0,Vijay Deverakonda,Rashmika Mandanna,Telugu,GA2 Pictures
+MOV029,Dear Comrade,Bharat Kamma,Romantic Drama,2019.0,15,35,7.1,170.0,Vijay Deverakonda,Rashmika Mandanna,Telugu,Mythri Movie Makers
+MOV034,Sarileru Neekevvaru,Anil Ravipudi,Action Comedy,2018.5,75,260,7.1,169.0,Mahesh Babu,Rashmika Mandanna,Telugu,AK Entertainments
+MOV036,Bheeshma,Venky Kudumula,Romantic Comedy,2020.0,20,50,7.4,145.0,Nithiin,Rashmika Mandanna,Telugu,Sithara Entertainments
+MOV044,Baahubali: The Beginning,S. S. Rajamouli,Epic Fantasy Action,2015.0,180,650,8.1,159.0,Prabhas,Tamannaah,Telugu,Arka Media Works
+MOV052,Baahubali 2: The Conclusion,S. S. Rajamouli,Epic Fantasy Action,2017.0,250,1810,8.2,171.0,Prabhas,Anushka Shetty,Telugu,Arka Media Works
